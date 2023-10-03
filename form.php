@@ -15,7 +15,7 @@
         bottom:0;
         top:0;
         z-index:0;
-        background-image:url(img/prato_cheio.png);
+        background-image:url(img/alimenta_mais.png);
         background-size:50%;
         background-position:center;
         background-repeat:no-repeat;
@@ -123,7 +123,7 @@ for($i=0;$i<4;$i++){
 ?>
 
 <div class="form">
-    <!-- <img src='img/prato_cheio.png' width="200" /> -->
+    <!-- <img src='img/alimenta_mais.png' width="200" /> -->
     <div class="formbg"></div>
     <div class="titulo">FICHA DE CADASTRO - Prato Cheio</div>
     <div class="nome">

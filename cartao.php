@@ -69,7 +69,7 @@ $comando = json_encode($dados);
 </style>
 <div class="cracha">
     <div class="apoio"></div>
-    <img src='img/prato_cheio.png' width="200" />
+    <img src='img/alimenta_mais.png' width="200" />
     <div class="nome"><?=$dados['nome']?></div>
     <img src='lib/vendor/barcode/?f=png&s=qr&d=<?=$comando?>' width="300" height="300" />
     <div class="cpf"><?=$dados['cpf']?></div>
