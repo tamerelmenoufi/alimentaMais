@@ -1,5 +1,5 @@
 <?php
-include("{$_SERVER['DOCUMENT_ROOT']}/app/projectRestaurantes/lib/includes.php");
+include("{$_SERVER['DOCUMENT_ROOT']}/vns/alimentaMais/lib/includes.php");
 ?>
 
 <canvas id="Tipos<?= $md5 ?>" width="400" height="400"></canvas>

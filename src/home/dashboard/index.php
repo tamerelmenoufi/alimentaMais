@@ -1,5 +1,5 @@
 <?php
-    include("{$_SERVER['DOCUMENT_ROOT']}/app/projectRestaurantes/lib/includes.php");
+    include("{$_SERVER['DOCUMENT_ROOT']}/vns/alimentaMais/lib/includes.php");
 
     if($_POST['busca_data']){
       $_SESSION['busca_data'] = $_POST['busca_data'];

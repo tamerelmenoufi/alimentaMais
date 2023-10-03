@@ -1,6 +1,6 @@
 <?php
 
-    include("{$_SERVER['DOCUMENT_ROOT']}/app/projectRestaurantes/lib/includes.php");
+    include("{$_SERVER['DOCUMENT_ROOT']}/vns/alimentaMais/lib/includes.php");
 
 
     $query = "select * from restaurantes where situacao = '1' order by titulo asc, local asc";

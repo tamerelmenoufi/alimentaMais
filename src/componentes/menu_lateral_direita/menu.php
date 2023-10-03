@@ -1,5 +1,5 @@
 <?php
-    include("{$_SERVER['DOCUMENT_ROOT']}/app/projectRestaurantes/lib/includes.php");
+    include("{$_SERVER['DOCUMENT_ROOT']}/vns/alimentaMais/lib/includes.php");
 ?>
 <div
     class="offcanvas offcanvas-end"
